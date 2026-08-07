@@ -30,3 +30,5 @@ frontend/dist/
 # Build
 build/
 dist/
+
+uploads/
