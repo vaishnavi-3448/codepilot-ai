@@ -31,4 +31,4 @@ frontend/dist/
 build/
 dist/
 
-uploads/
+frontend/uploads/
